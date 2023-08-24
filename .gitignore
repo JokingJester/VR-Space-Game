@@ -72,3 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/VattalusAssets/VattalusAssets_HeavyFighterCockpit1/Textures/Body/Rusty/VA_HeavyFighterCockpit1_Rusty_Albedo.psd
 Assets/VattalusAssets/VattalusAssets_HeavyFighterCockpit1/Textures/Body/Weathered/VA_HeavyFighterCockpit1_Weathered_Albedo.psd
+Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+Assets/Real Stars Skybox/StarSkybox04Named/CubemapStarsNamed.cubemap
+Assets/Real Stars Skybox/StarSkybox04NamedConstell/CubemapStarsNamedConstellations.cubemap
